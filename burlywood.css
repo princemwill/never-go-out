@@ -1,11 +1,13 @@
 ﻿body{
 	background-color: burlywood;
     font-family: sans-serif;
-    border-style: dotted;
+    
                  
 }
 main{
     background-color: #ffffff;
+    border-style: dotted;
+    
 }
 #id{
     margin-right: auto;
@@ -18,7 +20,7 @@ main{
 h1{
     font-weight: 600;
     font-family: 'Times';
-    border-style: dotted;
+    border-bottom-style: dotted;
     
 }
 ul{
