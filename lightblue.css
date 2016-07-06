@@ -1,19 +1,27 @@
 ﻿body{
-	background-color:#0febf2;
-    font-family: sans-serif
+	background-color: #54CCFF;
+    font-family: sans-serif;
+     font-weight: 500;
             
+}
+#id{
+    margin-right: auto;
+    margin-left: auto;
+   
+
+
 }
 h1{
     font-weight: 600;
+    font-family: 'Times';
+    
 }
-main{
-    margin-right: auto;
-    margin-left: auto;
-
-}
-ul::first-letter {
-    font-size: 200%;
-    font-weight: 600;
+ul{
     text-align: center;
-    list-style-position: inside;
+    list-style-type: none;
+}
+li::first-letter {
+    font-size: 150%;
+    font-weight: 400;  
+    
 }
