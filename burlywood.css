@@ -1,0 +1,32 @@
+﻿body{
+	background-color: burlywood;
+    font-family: sans-serif;
+    border-style: dotted;
+                 
+}
+main{
+    background-color: #ffffff;
+}
+#id{
+    margin-right: auto;
+    margin-left: auto;
+    
+   
+
+
+}
+h1{
+    font-weight: 600;
+    font-family: 'Times';
+    border-style: dotted;
+    
+}
+ul{
+    text-align: center;
+    list-style-type: none;
+}
+li::first-letter {
+    font-size: 150%;
+    font-weight: 400;  
+    
+}
