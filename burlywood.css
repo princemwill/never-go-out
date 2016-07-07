@@ -6,26 +6,34 @@
 }
 main{
     background-color: #ffffff;
-    border-style: dotted;
+    font-family: 'Comic Sans MS';
+    text-align: center; 
+    border-left-style: dotted;
+    border-right-style: dotted;
+    border-bottom-style: dotted;
+     
+    
+    
     
 }
 #id{
     margin-right: auto;
     margin-left: auto;
     
-   
-
 
 }
 h1{
     font-weight: 600;
-    font-family: 'Times';
-    border-bottom-style: dotted;
+    font-family: fantasy;    
+    vertical-align: middle;
+    text-align: center;               
+    border-style: dotted;
     
 }
 ul{
     text-align: center;
     list-style-type: none;
+    font-style:italic;
 }
 li::first-letter {
     font-size: 150%;
