@@ -1,21 +1,16 @@
 ﻿body {
-    background-color: burlywood;
+    background-color: #E2AC7F;
     font-family: sans-serif;
-    border-spacing: 47px;
+    /*border-spacing: 47px;*/
 }
 
 main {
-    background-color: #ffffff;
+    background-color: #F5F5DC;
     font-family: 'Comic Sans MS';
     text-align: center;
-    border-left-style: dotted;
-    border-right-style: dotted;
-    border-bottom-style: dotted;
-}
-
-#id {
-    margin-right: auto;
-    margin-left: auto;
+    margin: 0 auto;
+    border: black dotted;
+    width: 568px;
 }
 
 h1 {
@@ -24,12 +19,14 @@ h1 {
     font-style: italic;
     vertical-align: middle;
     text-align: center;
-    border-style: dotted;
+    border-bottom-style: dotted;
+    margin-top: 0;
 }
 
 p {
     font-size: 90%;
     text-align: left;
+    margin-left: 20px;
 }
 
 ul {
@@ -46,4 +43,7 @@ li::first-letter {
 .copyright {
     font-size: 80%;
     text-align: center;
+    }
+a {
+    text-decoration: none;
 }
