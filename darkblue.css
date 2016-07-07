@@ -1,21 +1,24 @@
-﻿body{
-	background-color:#5C7EBD;
-    font-family: sans-serif
-            
+﻿body {
+    background-color: #5C7EBD;
+    font-family: sans-serif;
 }
-h1{
+
+h1 {
     font-weight: 700;
 }
-ul{
+
+ul {
     text-align: center;
     list-style-position: inside;
 }
-p a{
+
+p a {
     color: rebeccapurple;
     font-style: italic;
     font-size: 70%;
 }
-.copyright{
-     font-style: italic;
+
+.copyright {
+    font-style: italic;
     font-size: 70%;
 }

@@ -1,0 +1,21 @@
+﻿body{
+	background-color:#364370;
+    font-family: sans-serif
+            
+}
+h1{
+    font-weight: 700;
+}
+ul{
+    text-align: center;
+    list-style-position: inside;
+    list-style-type: none;
+    
+}
+nav{
+    text-align: left;
+}
+article{
+    text-align: center;
+}
+
