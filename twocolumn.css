@@ -1,21 +1,36 @@
-﻿body{
-	background-color:#364370;
-    font-family: sans-serif
-            
+﻿body {
+    background-color: #364370;
+    font-family: sans-serif;    
 }
-h1{
+
+main {
+    width: 1000px;
+    height: 400px;    
+}
+
+h1 {
     font-weight: 700;
 }
-ul{
+
+article ul {
     text-align: center;
     list-style-position: inside;
     list-style-type: none;
-    
 }
-nav{
+
+nav {
+    float: left;
+    background-color: #B0CFFE;
     text-align: left;
+    height: 321px;
 }
-article{
+
+article {
+    background-color: #5B7FBD;
     text-align: center;
 }
 
+.copyright {
+    background-color: #364370;
+    padding-top: 10px;
+}
