@@ -1,42 +1,49 @@
-﻿body{
-	background-color: burlywood;
+﻿body {
+    background-color: burlywood;
     font-family: sans-serif;
-    
-                 
+    border-spacing: 47px;
 }
-main{
+
+main {
     background-color: #ffffff;
     font-family: 'Comic Sans MS';
-    text-align: center; 
+    text-align: center;
     border-left-style: dotted;
     border-right-style: dotted;
     border-bottom-style: dotted;
-     
-    
-    
-    
 }
-#id{
+
+#id {
     margin-right: auto;
     margin-left: auto;
-    
+}
 
-}
-h1{
+h1 {
     font-weight: 600;
-    font-family: fantasy;    
+    font-family: fantasy;
+    font-style: italic;
     vertical-align: middle;
-    text-align: center;               
+    text-align: center;
     border-style: dotted;
-    
 }
-ul{
+
+p {
+    font-size: 90%;
+    text-align: left;
+}
+
+ul {
     text-align: center;
     list-style-type: none;
-    font-style:italic;
+    font-style: italic;
 }
+
 li::first-letter {
     font-size: 150%;
-    font-weight: 400;  
-    
+    font-weight: 400;
+}
+
+.copyright {
+    font-size: 80%;
+    text-align: center;
 }
